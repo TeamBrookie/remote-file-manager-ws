@@ -1,4 +1,5 @@
-# remote-file-manager-ws
+# remote-file-manager-ws 
+[![Build Status](https://travis-ci.org/teambrookie/remote-file-manager-ws.svg?branch=master)](https://travis-ci.org/teambrookie/remote-file-manager-ws)
 
 #Installation
 
