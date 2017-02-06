@@ -73,12 +73,10 @@ app.delete('/files', function(req, res){
         console.error("Error while deleting "+filePath,err);
         res.status(400).send(err);
       }
-      else{
         console.log("file should be removed");
-        res.status(200).send('File '+file.name+' removed with succes');
-      }
     });
   }
+  res.status(200).send('OK');
 
 });
 
